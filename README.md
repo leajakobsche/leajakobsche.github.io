@@ -34,3 +34,11 @@ We had to really interesting talks on before lunch, one of them was on student l
 Both talks were really informative and enjoyable. I recommend that you continue them for the next TY group as well.
 In the afternoon we had a workshop on python. It was very interesting to see how you're able to code a functioning bounce game just with a few lines of code. We got to mess around with it and try to find different things in the code and change them. It was quite hard at first since not all of us used python before. Maybe the start of would be easier if you give a little introoduction first? 
 Overall this day was very enjoyable as well, the interns and all members of staff involved do an absolutely fantastic job with this programme. 
+
+Friday, 26th April 
+
+On Friday we spent our day progarmming microbits to create a microbit car. I really enjoyed it although we had some stuggles alonf the way. We weren't able to fix some problems but with the help of the interns we made it to a functioning race care. Practicing, coding, racing, talking to each other and playing Mario card was really enjoyable. It was probably the most fun part of the week. 
+
+I'm very sad to already wrap things up, the week was very enjoyable and helped me see that IT might be something I'd like to do in the future. Thank you, Red Hat, for hosting this programme and giving us the oppertunity to find this out. 
+
+
